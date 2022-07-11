@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "serverless-offline": "^8.8.1"
+  },
+  "dependencies": {
+    "querystring": "^0.2.1"
+  }
+}
